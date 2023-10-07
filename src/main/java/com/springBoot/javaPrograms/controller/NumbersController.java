@@ -1,6 +1,6 @@
-package com.boot.javaPrograms.controller;
+package com.springBoot.javaPrograms.controller;
 
-import com.boot.javaPrograms.service.Numbers;
+import com.springBoot.javaPrograms.service.Numbers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,6 +1,6 @@
-package com.boot.javaPrograms.service.serviceImpl;
+package com.springBoot.javaPrograms.service.serviceImpl;
 
-import com.boot.javaPrograms.service.Shape;
+import com.springBoot.javaPrograms.service.Shape;
 import org.springframework.stereotype.Service;
 
 

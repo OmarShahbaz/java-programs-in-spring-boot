@@ -1,4 +1,4 @@
-package com.boot.javaPrograms.service;
+package com.springBoot.javaPrograms.service;
 public interface TempConverter {
 
     double fahrenheitToCentigrade(int fahrenheit);

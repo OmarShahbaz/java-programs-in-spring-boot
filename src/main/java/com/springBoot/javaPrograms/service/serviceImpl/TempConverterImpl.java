@@ -1,8 +1,8 @@
-package com.boot.javaPrograms.service.serviceImpl;
+package com.springBoot.javaPrograms.service.serviceImpl;
 
 import org.springframework.stereotype.Service;
 
-import com.boot.javaPrograms.service.TempConverter;
+import com.springBoot.javaPrograms.service.TempConverter;
 @Service
 public class TempConverterImpl implements TempConverter {
     @Override

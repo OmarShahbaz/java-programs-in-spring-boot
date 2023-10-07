@@ -1,6 +1,6 @@
-package com.boot.javaPrograms.service.serviceImpl;
+package com.springBoot.javaPrograms.service.serviceImpl;
 
-import com.boot.javaPrograms.service.Numbers;
+import com.springBoot.javaPrograms.service.Numbers;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

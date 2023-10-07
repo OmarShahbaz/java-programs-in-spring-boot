@@ -1,6 +1,6 @@
-package com.boot.javaPrograms.controller;
+package com.springBoot.javaPrograms.controller;
 
-import com.boot.javaPrograms.service.TempConverter;
+import com.springBoot.javaPrograms.service.TempConverter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
